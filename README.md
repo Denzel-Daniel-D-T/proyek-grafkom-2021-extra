@@ -1,4 +1,4 @@
-# Proyek Grafkom Semester Gasal 2021/2020 Extra
+# Proyek Grafkom Semester Gasal 2021/2022 Extra
 ### ID:
 Tambahan pada Proyek Grafkom Semester Gasal 2021/2022 untuk mempelajari Grafkom lebih lanjut secara mandiri.
 
