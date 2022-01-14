@@ -1,0 +1,58 @@
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master (2)\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\Gasal 2021\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\Gasal 2021\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\Gasal 2021\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\Gasal 2021\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\ConsoleApp1\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\ConsoleApp7\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\UTS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\backup\ifs4\GrafKom\C#\UAS_Grafkom_Myssilia\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
